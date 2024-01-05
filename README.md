@@ -1,9 +1,15 @@
-👋 Hi, I'm Mondra Howard
+# Mondra Howard's GitHub
 
-    😄 I'm a fan of Excel, SQL, Tableau, and Power BI
-    🌱 I’m a Data Analyst committed to continually learning
-    📫 You can view more about me here: 
-    ⚡ I'm also a photography enthusiast
+👋 Hi, I'm Mondra Howard! I'm a Data Analyst with a passion for data and a love for photography.
+
+- 😄 I'm a fan of Excel, SQL, Tableau, and Power BI.
+- 🌱 I’m committed to continually learning and growing in the field of data analytics.
+- 📫 You can view more about me on my [Tableau Public Profile](https://public.tableau.com/app/profile/mondra.howard/vizzes).
+- ⚡ I'm also a photography enthusiast.
+
+Feel free to explore my public Tableau visualizations and projects here!
+
+
 
 <!--
 **Mondra-Howard/Mondra-Howard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
