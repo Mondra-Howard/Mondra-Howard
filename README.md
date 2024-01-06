@@ -5,7 +5,7 @@
 - 😄 I'm a fan of Excel, SQL, Tableau, and Power BI.
 - 🌱 I’m committed to continually learning and growing in the field of data analytics.
 - 📫 You can view more about me here: [My Portfolio](https://mondra-howard.carrd.co/).
-- ⚡ I'm also a photography enthusiast.
+- ⚡ I'm also a photography enthusiast currently focused on capturing stunning real estate images.
 
 
 
