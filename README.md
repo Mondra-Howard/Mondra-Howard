@@ -3,7 +3,7 @@
 👋 Hi, I'm Mondra Howard
 
 - 😄 I'm a fan of Excel, SQL, Tableau, and Power BI.
-- 🌱 I’m committed to continually learning and growing in the field of data analytics.
+- 🌱 I'm a Data Analyst and DBA dedicated to continual growth in the field.
 - 📫 You can view more about me here: [My Portfolio](https://mondra-howard.carrd.co/).
 - ⚡ I'm also a photography enthusiast currently focused on capturing real estate images.
 
