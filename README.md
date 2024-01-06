@@ -4,7 +4,7 @@
 
 - 😄 I'm a fan of Excel, SQL, Tableau, and Power BI.
 - 🌱 I’m committed to continually learning and growing in the field of data analytics.
-- 📫 You can view more about me on my [Tableau Public Profile](https://public.tableau.com/app/profile/mondra.howard/vizzes).
+- 📫 You can view more about me here: [My Portfolio](https://mondra-howard.carrd.co/).
 - ⚡ I'm also a photography enthusiast.
 
 
